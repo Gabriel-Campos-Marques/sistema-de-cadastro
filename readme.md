@@ -1,5 +1,5 @@
 # Sistema de Cadastro
 
 ```
-Instalar VsCode
+nope app.js
 ```
